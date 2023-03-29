@@ -1,4 +1,3 @@
-matplotlib
-numpy
-tensorflow-cpu
-tensorflow-datasets
+bertopic
+scikit-learn
+pandas
